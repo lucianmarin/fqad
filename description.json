@@ -1,0 +1,34 @@
+{
+"metadata":{
+    "dc:title":"Recovering from FQAD",
+    "dc:creator":"Lucian Marin",
+    "dc:language":"en-US",
+    "dc:identifier":"fqad-recovery",
+    "dc:source":"",
+    "meta":"",
+    "dc:date":"2025-12-21",
+    "dc:publisher":"",
+    "dc:contributor":"",
+    "dc:rights":"",
+    "dc:description":"",
+    "dc:subject":""
+    },
+"cover_image":"cover.jpg",
+"default_css":[],
+"chapters":[
+            {"markdown":"chapter01.md","css":""},
+            {"markdown":"chapter02.md","css":""},
+            {"markdown":"chapter03.md","css":""},
+            {"markdown":"chapter04.md","css":""},
+            {"markdown":"chapter05.md","css":""},
+            {"markdown":"chapter06.md","css":""},
+            {"markdown":"chapter07.md","css":""},
+            {"markdown":"chapter08.md","css":""},
+            {"markdown":"chapter09.md","css":""},
+            {"markdown":"chapter10.md","css":""},
+            {"markdown":"chapter11.md","css":""},
+            {"markdown":"chapter12.md","css":""},
+            {"markdown":"chapter13.md","css":""},
+            {"markdown":"chapter14.md","css":""}
+        ]
+}
