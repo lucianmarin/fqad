@@ -11,7 +11,8 @@ Dr. Stefan Pieper, a leading researcher in FQAD, has proposed diagnostic criteri
 
 ## 2. Investigative Biomarkers
 While standard blood panels (CBC, Metabolic Panel) often come back "normal," specialized testing can reveal the underlying pathology:
-- **Small Fiber Neuropathy (SFN):** A **3mm Skin Punch Biopsy** to measure **Intraepidermal Nerve Fiber Density (IENFD)** remains the gold standard for diagnosing small fiber pathology.
+- **Small Fiber Neuropathy (SFN):** A **3mm Skin Punch Biopsy** (typically from the distal leg and proximal thigh) is the gold standard. 
+    *   **The Metric:** The sample is stained to count nerve fibers crossing the basement membrane. A count **below the 5th percentile** for age and gender confirms the diagnosis. This provides objective proof of organic damage in patients with "invisible" pain.
 - **Advanced Imaging:** 
     *   **Ultrasound Tissue Characterization (UTC):** Unlike standard ultrasound, UTC analyzes the 3D stability of the tendon matrix. It can quantify the ratio of organized (Type I) vs. disorganized (Type II/III) collagen fibers, revealing sub-clinical tendinosis before a rupture occurs.
 - **Emerging Molecular Markers:**

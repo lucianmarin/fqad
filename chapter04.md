@@ -16,10 +16,10 @@ Matrix Metalloproteinases (MMPs) are enzymes responsible for physiological tissu
 - **MMP-2 and MMP-9 (Gelatinases):** These enzymes further degrade the collagen fragments and elastin. 
 - **TIMP Downregulation:** Simultaneously, FQs reduce the levels of **Tissue Inhibitors of Metalloproteinases (TIMPs)**. This disruption of the MMP/TIMP ratio results in an unopposed catabolic state—an uncontrolled "melting" of the connective tissue matrix.
 
-## 3. Tenocyte Apoptosis and Hypocellularity
-Tendon cells, or tenocytes, are responsible for maintaining the tendon. FQs are directly toxic to these cells.
-- **Mitochondrial Trigger:** As discussed in Chapter 3, mitochondrial failure in tenocytes triggers a pro-apoptotic (cell suicide) pathway.
-- **Reduced Proliferation:** FQs inhibit the ability of tenocytes to divide and repair damage. This leads to "hypocellularity," where the tendon becomes a biological "ghost town" unable to heal from daily wear and tear.
+## 3. Tenocyte Apoptosis and Integrin Disruption
+Tendon cells (tenocytes) communicate with the extracellular matrix (ECM) through transmembrane receptors called **integrins**. 
+- **Broken Signaling:** FQs have been shown to disrupt **Beta-1 integrin** signaling. Integrins act as the cell's "hands," gripping the collagen fibers. When this connection is severed or chemically distorted by FQ chelation of the divalent cations (Mg²⁺/Ca²⁺) required for integrin function, the tenocyte loses its tension. 
+- **Anoikis:** This loss of anchorage triggers a specific form of programmed cell death called **anoikis** (homelessness). The cell "thinks" it is floating in the wrong place and commits suicide to prevent metastasis. This, combined with mitochondrial failure, leads to rapid hypocellularity.
 
 ## 4. Vascular Integrity: The Aortic Risk
 The aorta is the body's largest artery and must withstand immense pressure. Its strength is derived from a dense layer of collagen and elastin.

@@ -25,7 +25,8 @@ The **Vagus Nerve** (Cranial Nerve X) is the "highway" of the parasympathetic ne
 - **Neurotoxicity in the Gut:** FQs can damage the vagal pathways and the enteric nervous system. This leads to **Dysautonomia**, often manifesting as Postural Orthostatic Tachycardia Syndrome (POTS) or **Gastroparesis** (delayed stomach emptying).
 - **The Brain-Gut Axis:** The disruption of the microbiome by FQs further complicates this, as 90% of the body's serotonin is produced in the gut. A "floxed" gut often means a "floxed" brain.
 
-## 4. The "Wind-Up" and Central Sensitization
-Long-term FQAD patients often develop **Central Sensitization**, where the central nervous system stays in a state of high alert. 
-- **Lowered Pain Threshold:** Because the GABAergic system is compromised, the brain becomes "hyperefficient" at processing pain. Light touch, normal sounds, or mild stress can be perceived as overwhelming or painful. 
-- **Persistence:** This "neural scarring" explains why neuropsychiatric symptoms can persist for years, even after the drug has long left the body.
+## 5. Microglial Activation: The Brain on Fire
+Beyond direct neuronal damage, FQs trigger the brain's immune system.
+- **The Resting vs. Primed State:** Microglia are the resident macrophages of the CNS. Normally, they patrol quietly. However, oxidative stress and excitotoxicity transform them into an "activated" M1 phenotype.
+- **Cytokine Storm:** Activated microglia release pro-inflammatory cytokines (IL-1β, TNF-α, IL-6). These chemicals alter neurotransmitter synthesis and maintain the state of "sickness behavior" (fatigue, depression, brain fog).
+- **Chronic Loop:** Once primed by the initial FQ insult, microglia can remain hyper-reactive for years, meaning minor stressors (a cold, stress, poor sleep) can trigger disproportionate "neuro-crashes."

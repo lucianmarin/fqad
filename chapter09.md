@@ -2,7 +2,12 @@
 
 Recovery from FQAD is not about "curing" an infection, but about **rehabilitating a cellular ecosystem**. Because the damage is at the level of the DNA and the mitochondria, the body must literally replace its damaged parts over time.
 
-## 1. Stabilization: Stopping the ROS Leak
+## 1. The Hormetic Curve: Finding the Sweet Spot
+Recovery relies on the biological principle of **Hormesis**—the phenomenon where a stressor that is toxic at high doses is beneficial at low doses.
+- **The Broken Switch:** Normally, exercise or sauna creates a mild stress that triggers the body to get stronger (supercompensation). In FQAD, the "stress threshold" is drastically lowered. A 10-minute walk that was once "hormetic" (beneficial) is now "toxic" (damaging).
+- **Goal:** The goal of recovery is to identify your current, lowered threshold and work *just below it*, imperceptibly raising the ceiling over months.
+
+## 2. Stabilization: Stopping the ROS Leak
 The first phase of recovery is halting the "vicious cycle" of oxidative stress described in Chapter 3.
 - **Quenching the Fire:** This involves providing the cell with the "raw materials" to neutralize peroxynitrite and superoxide. If the mitochondrial "leak" is not plugged, any attempt to increase energy production will simply create more damage.
 - **Trigger Avoidance:** Avoiding "chemical stressors" that further tax the mitochondria (e.g., NSAIDs, steroids, certain anesthetics, and excessive caffeine) is essential during this acute stabilization phase.

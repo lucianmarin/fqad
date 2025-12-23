@@ -21,9 +21,10 @@ Standard physical therapy—which often involves stretching and eccentric moveme
 - **The Protocol:** Starting with very short holds (5-10 seconds) and gradually increasing duration is the safest way to rebuild tendon tensile strength.
 
 ## 4. Autonomic Toning: The Vagus Nerve
-Since FQAD often involves "dysautonomia" (a malfunctioning "fight or flight" system), interventions that calm the nervous system are critical.
-- **Hydrotherapy:** Contrast showers (alternating warm and cool water) can help "train" the autonomic nervous system to regulate blood flow and temperature again.
-- **Breathwork:** Slow, diaphragmatic breathing (5 seconds in, 5 seconds out) stimulates the vagus nerve and can help break the cycle of excitotoxicity and panic.
+Since FQAD often involves "dysautonomia," interventions that calm the nervous system are critical.
+- **Transcutaneous Vagus Nerve Stimulation (tVNS):** A non-invasive technique using a standard TENS unit with an ear-clip electrode attached to the tragus of the ear. This stimulates the auricular branch of the vagus nerve, sending calming signals to the brainstem. Studies suggest this can lower heart rate, reduce inflammation via the "cholinergic anti-inflammatory pathway," and improve gastric motility.
+- **Hydrotherapy:** Contrast showers (alternating warm and cool water) can help "train" the autonomic nervous system.
+- **Breathwork:** Slow, diaphragmatic breathing (5 seconds in, 5 seconds out) stimulates the vagus nerve.
 
 ## 5. Dietary Frameworks: Fueling the Repair
 - **The Anti-Inflammatory (Mediterranean) Diet:** High in polyphenols, omega-3 fatty acids, and fiber to reduce systemic inflammation.

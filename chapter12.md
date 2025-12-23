@@ -7,7 +7,13 @@ No two "floxing" experiences are identical, but patterns have emerged from the t
 - **The Intermediate Phase (6–18 Months):** Symptoms often plateau or begin to oscillate. This is the period of "mitochondrial turnover." Patients may see the first signs of improvement (e.g., a "good day" followed by three "bad days").
 - **The Chronic/Remodeling Phase (18+ Months):** For those whose symptoms persist, this phase involves the slow structural remodeling of tendons and the regeneration of small-fiber nerves. Many partial or full recoveries are reported during this window.
 
-## 2. The Relapsing-Remitting Pattern
+## 2. Recovery Archetypes
+While every case is unique, three distinct "phenotypes" often emerge:
+- **The "Musculoskeletal" Type:** Dominant symptoms are tendon pain and rupture risk. These patients often recover slower physically (due to collagen turnover) but may have fewer cognitive issues. Recovery is linear but slow.
+- **The "Neuro/Psych" Type:** Dominant symptoms are panic, insomnia, and neuropathy. These patients often experience a "switch-like" recovery—suffering intensely for 12-18 months and then seeing rapid improvement as GABA receptors upregulate.
+- **The "Fatigue/Mito" Type:** Dominant symptoms are profound exhaustion and brain fog. This type follows the "Relapsing-Remitting" pattern most closely and requires the strictest energy pacing.
+
+## 3. The Relapsing-Remitting Pattern
 FQAD is rarely a linear recovery. Many patients experience "flare-ups" after months of feeling well.
 - **Mitochondrial Heteroplasmy:** This pattern may be explained by the concept of **heteroplasmy**. Cells contain hundreds of mitochondria, and each mitochondrion contains multiple copies of mtDNA. In FQAD, a cell likely contains a mix of healthy (wild-type) and damaged (mutant) mtDNA.
     *   **The Threshold Effect:** As long as the ratio of healthy mtDNA is high, the cell functions normally. However, under stress (oxidative, viral, or chemical), the demand for energy increases. If the damaged mitochondria cannot keep up, the cell crosses a bioenergetic threshold, leading to a sudden loss of function (a "flare") until homeostasis is restored.

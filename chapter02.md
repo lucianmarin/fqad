@@ -19,6 +19,12 @@ Fluoroquinolones are potent **chelating agents**. The molecular geometry formed 
     *   **Iron:** FQs can form stable complexes with ferric iron (Fe³⁺). This can interfere with heme synthesis and the assembly of iron-sulfur clusters (Fe-S) critical for the electron transport chain complexes I, II, and III.
 - **Solubility Issues:** In alkaline environments (like urine), the magnesium-FQ complex can precipitate, potentially leading to crystalluria (crystal formation in urine), though this is less common with newer generations.
 
+## 2.5 The Peroxynitrite Cycle: A Self-Sustaining Trap
+A key piece of the toxicity puzzle is the formation of **Peroxynitrite (ONOO⁻)**. This molecule acts as a biochemical "short circuit."
+- **The Reaction:** When FQ-induced superoxide ($O_2^{\bullet-}$) meets physiological Nitric Oxide (NO), they react at diffusion-limited rates to form peroxynitrite. 
+- **The Damage:** ONOO⁻ is a potent oxidant that nitrates tyrosine residues in proteins (forming nitrotyrosine), inhibiting their function. Crucially, it inhibits the enzymes that make NO and the enzymes that make ATP.
+- **The Cycle:** Martin Pall’s "NO/ONOO⁻ Cycle" hypothesis suggests that this stressor creates a positive feedback loop. ONOO⁻ damages the mitochondria, which releases more superoxide, which reacts with more NO to create *more* ONOO⁻. This explains the chronic, self-sustaining nature of FQAD symptoms even after the drug is gone.
+
 ## 3. Epigenetic Alterations and Gene Expression
 Recent research (2023–2025) suggests that FQ toxicity extends to the **epigenome**. 
 - **α-Ketoglutarate Dehydrogenase Inhibition:** FQs may inhibit enzymes that require α-ketoglutarate, which are critical for DNA and histone demethylation. 

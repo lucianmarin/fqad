@@ -15,9 +15,11 @@ The evolution from older quinolones (like nalidixic acid) to *fluoro*quinolones 
 - **Pharmacokinetic Dominance:** FQs exhibit a large **volume of distribution (Vd)**. This means they do not stay contained within the blood plasma but distribute extensively into intracellular compartments and tissues. Concentrations in lung tissue, kidney, bone, and macrophages often exceed serum levels. While this makes them formidable against intracellular pathogens (like *Legionella* or *Mycoplasma*), it also ensures that the drug accumulates within the mitochondria and cytoplasm of host cells, setting the stage for systemic toxicity.
 
 ## Regulatory Evolution and Recognition
-For decades, FQs were used as first-line treatments for minor infections. However, a growing body of pharmacovigilance data forced a global reassessment.
-
-- **FDA Definition:** In 2016, the U.S. Food and Drug Administration (FDA) formally recognized FQAD as a distinct clinical entity. It is defined by the occurrence of disabling and potentially irreversible adverse effects involving two or more systems (e.g., tendons, muscles, joints, nerves, and the central nervous system) that persist for 30 days or longer after drug discontinuation.
+The history of fluoroquinolones is a timeline of escalating potency and escalating warnings.
+- **1962: The Beginning:** The first quinolone, **nalidixic acid**, was discovered as a byproduct of chloroquine synthesis. It was used for UTIs but had limited tissue penetration.
+- **1980s: The Fluorine Era:** The patenting of **Ciprofloxacin** (1983) marked the "golden age." The addition of the fluorine atom created a "super-drug" that could treat systemic infections orally, a feat previously reserved for IV antibiotics.
+- **2008: The First Black Box:** After years of reports, the FDA added a "Black Box Warning" for tendon rupture.
+- **2016: FDA Recognition:** In 2016, the U.S. Food and Drug Administration (FDA) formally recognized FQAD as a distinct clinical entity. It is defined by the occurrence of disabling and potentially irreversible adverse effects involving two or more systems (e.g., tendons, muscles, joints, nerves, and the central nervous system) that persist for 30 days or longer after drug discontinuation.
 - **EMA Restrictions:** In 2019, the European Medicines Agency (EMA) implemented some of the world's strictest restrictions, advising that FQs should **never** be used for non-severe or self-limiting infections (like uncomplicated cystitis or bronchitis) due to the risk of "long-lasting, disabling and potentially permanent" side effects.
 - **2024-2025 Status:** Regulatory bodies now emphasize that FQs should be reserved as a "last resort" antibiotic, used only when other treatments have failed or are contraindicated.
 

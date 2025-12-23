@@ -27,7 +27,8 @@ Fluoroquinolones exhibit a high affinity for **melanin**, a pigment found in hig
 - **Acute Kidney Injury (AKI):** FQs are primarily cleared by the kidneys. In patients with even mild renal impairment, the drug can accumulate to toxic levels. FQs can cause crystal-induced nephropathy or interstitial nephritis.
 - **Liver Injury:** Though less common, drug-induced liver injury (DILI) can occur, often presenting as jaundice or elevated transaminases weeks after the last dose.
 
-## 5. The "Great Mimicker"
-The multisystemic nature of FQAD is its most frustrating feature. Because it affects the **ECM (Extracellular Matrix)** and the **Mitochondria**, it presents a kaleidoscope of symptoms.
-- **Misdiagnosis:** Patients are often misdiagnosed with Fibromyalgia, Chronic Fatigue Syndrome, or "Anxiety" because the symptoms are so diverse. 
-- **The Definition:** To meet the regulatory criteria for FQAD, a patient must have disabling symptoms in **at least two** major systems (e.g., musculoskeletal and neurological) that persist beyond 30 days. In practice, most "floxed" individuals experience 5-10 systems being affected simultaneously.
+## 6. Immune Dysregulation: MCAS and Chemical Sensitivity
+A frequently overlooked systemic effect is the destabilization of mast cells.
+- **Mast Cell Activation Syndrome (MCAS):** FQs can trigger mast cells to become "twitchy," degranulating with minimal provocation. This releases histamine, tryptase, and cytokines into the bloodstream.
+- **Symptoms:** Patients may develop sudden new food allergies, intolerance to fragrances, dermatographia (skin writing), and episodic flushing or hypotension.
+- **The GPRX2 Receptor:** Emerging research suggests FQs may directly activate the MRGPRX2 receptor on mast cells, bypassing the usual IgE allergic pathway. This explains why patients have "allergic-like" reactions that don't show up on standard allergy tests.

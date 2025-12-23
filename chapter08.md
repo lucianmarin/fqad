@@ -21,7 +21,12 @@ Research into the human genome has identified several "weak points" that make in
 - **The Over-60 Rule:** As we age, our mitochondrial density naturally declines, and our kidney function often slows down. The FDA and EMA both highlight age >60 as a primary risk factor for both musculoskeletal and neurological adverse events.
 - **Athletes:** High-performance athletes are at a unique risk because their tendons are under constant high stress. FQ exposure can lead to catastrophic ruptures in even the most physically fit individuals.
 
-## 4. Prevention: The "New Standard of Care"
+## 4. Viral Reactivation: The Hidden Synergist
+The immune suppression caused by the initial oxidative shock can allow latent viruses to reactivate.
+- **EBV and CMV:** Many FQAD patients test positive for reactivated **Epstein-Barr Virus (EBV)**, Cytomegalovirus (CMV), or HHV-6. 
+- **The Double Hit:** These viruses hijack mitochondrial machinery for their own replication, adding a secondary load to an already failing system. This is often why "fatigue" persists even after tendon pain resolves.
+
+## 5. Prevention: The "New Standard of Care"
 In 2024–2025, the medical consensus has shifted toward extreme caution:
 - **Restriction:** FQs should **not** be used for uncomplicated urinary tract infections (UTIs), acute bronchitis, or acute sinusitis unless every other class of antibiotic is unsuitable.
 - **Patient History:** Doctors must screen for a history of tendon issues, peripheral neuropathy, or previous adverse reactions to FQs.

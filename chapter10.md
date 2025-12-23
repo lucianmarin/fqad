@@ -21,7 +21,12 @@ Antioxidants work best as a "network." Taking high doses of one without the othe
 - **Alpha-Lipoic Acid (ALA):** A unique "universal antioxidant" that is both fat- and water-soluble. It can cross the BBB and helps "recycle" other antioxidants like Vitamin C and E.
 - **Vitamin C:** Essential for **collagen synthesis**. It acts as a cofactor for the hydroxylation of proline and lysine, which are the building blocks of the tendon matrix.
 
-## 4. The NAD+ Connection
+## 4. The B-Vitamin Powerhouse: Thiamine and Riboflavin
+While B12/Folate get the spotlight, **B1** and **B2** are the engines of the mitochondria.
+- **Thiamine (Vitamin B1):** Essential for the **Pyruvate Dehydrogenase Complex (PDH)**. Without B1, pyruvate cannot enter the mitochondria to be burned for fuel and is instead converted to lactate. High-dose thiamine (often as Benfotiamine or TTFD) can help switch the body back to aerobic metabolism, alleviating "air hunger" and fatigue.
+- **Riboflavin (Vitamin B2):** The backbone of FAD/FADH2, the electron carrier for **Complex II** (Succinate Dehydrogenase). It is also a cofactor for Glutathione Reductase, helping recycle glutathione.
+
+## 5. The NAD+ Connection
 Niacin (Vitamin B3) and its derivatives (NR/NMN) are precursors to **NAD+**, a coenzyme critical for both energy metabolism and DNA repair (via PARP enzymes).
 - **The Salvage Pathway:** Cells primarily maintain NAD+ levels through the "Salvage Pathway." The rate-limiting enzyme here is **NAMPT** (nicotinamide phosphoribosyltransferase). 
 - **DNA Repair Demand:** Since FQs cause double-strand breaks, the enzyme PARP1 is activated to repair the DNA. PARP1 consumes massive amounts of NAD+, potentially draining the cell's energy reserves. Replenishing the NAD+ pool supports both genomic integrity and metabolic function.

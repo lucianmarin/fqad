@@ -11,7 +11,8 @@ One of the most significant breakthroughs is the discovery that FQs may form **c
 MSCs are the "repair crews" of the body, responsible for fixing tendons and cartilage.
 - **Premature Senescence:** FQs have been shown to induce **premature senescence** (biological aging) in stem cells. The stem cells "stop working" but do not die.
 - **The SASP Hazard:** Instead, these "zombie cells" adopt the **Senescence-Associated Secretory Phenotype (SASP)**. They actively secrete pro-inflammatory cytokines (like **IL-6** and **IL-8**), chemokines, and matrix-degrading proteases (MMPs). This means the stem cells are not only failing to repair the tissue but are actively poisoning the local environment and spreading inflammation.
-- **The Repair Blockade:** If the body's stem cell pool is damaged, recovery is slowed because the "source" of new tenocytes and nerves is compromised. Research into "senolytics" (drugs that kill senescent cells) is a major focus for future therapies.
+- **The Repair Blockade:** If the body's stem cell pool is damaged, recovery is slowed.
+    *   **Senolytics:** This new class of drugs aims to selectively eliminate "zombie" cells. Natural compounds like **Quercetin** (often paired with Dasatinib in trials) and **Fisetin** (found in strawberries) are currently being investigated for their ability to clear senescent cells and reduce the SASP burden, potentially "un-stalling" the healing process.
 
 ## 3. Gene Therapy and Mitochondrial Transfer
 Looking toward 2030, researchers are exploring high-tech interventions:
