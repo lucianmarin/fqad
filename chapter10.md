@@ -17,12 +17,14 @@ Magnesium is the most critical mineral for the "floxed" patient.
 ## 3. Quenching the ROS: The Antioxidant Network
 Antioxidants work best as a "network." Taking high doses of one without the others can lead to **reductive stress**.
 - **NAC (N-Acetyl Cysteine):** The rate-limiting precursor to **Glutathione**, the body's primary intracellular antioxidant. NAC helps neutralize the peroxynitrite generated during the FQ reaction.
+- **Selenium and GPx:** Glutathione cannot work alone; it requires the enzyme **Glutathione Peroxidase (GPx)** to convert hydrogen peroxide into water. GPx is a selenoprotein, meaning it requires **Selenium** as an essential cofactor. A deficiency in selenium effectively renders glutathione useless.
 - **Alpha-Lipoic Acid (ALA):** A unique "universal antioxidant" that is both fat- and water-soluble. It can cross the BBB and helps "recycle" other antioxidants like Vitamin C and E.
 - **Vitamin C:** Essential for **collagen synthesis**. It acts as a cofactor for the hydroxylation of proline and lysine, which are the building blocks of the tendon matrix.
 
 ## 4. The NAD+ Connection
 Niacin (Vitamin B3) and its derivatives (NR/NMN) are precursors to **NAD+**, a coenzyme critical for both energy metabolism and DNA repair (via PARP enzymes).
-- **DNA Repair:** Since FQs cause double-strand breaks, the cell's demand for NAD+ skyrockets. Replenishing this pool can support the genomic integrity of the cell.
+- **The Salvage Pathway:** Cells primarily maintain NAD+ levels through the "Salvage Pathway." The rate-limiting enzyme here is **NAMPT** (nicotinamide phosphoribosyltransferase). 
+- **DNA Repair Demand:** Since FQs cause double-strand breaks, the enzyme PARP1 is activated to repair the DNA. PARP1 consumes massive amounts of NAD+, potentially draining the cell's energy reserves. Replenishing the NAD+ pool supports both genomic integrity and metabolic function.
 
 ## 5. Cautions and Caveats
 - **The Copper/Zinc Balance:** FQs chelate both copper and zinc. While supplementing with zinc can support the immune system, excessive zinc can cause a copper deficiency, which can *worsen* LOX-mediated collagen issues. 

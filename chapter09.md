@@ -9,13 +9,15 @@ The first phase of recovery is halting the "vicious cycle" of oxidative stress d
 
 ## 2. Mitophagy: Clearing the Mitochondrial "Trash"
 Before the body can make new, healthy mitochondria, it must identify and destroy the damaged ones. This process is called **Mitophagy**.
+- **The Sensor Mechanism (PINK1/Parkin):** The cell uses the **PINK1/Parkin pathway** to detect quality. In healthy mitochondria, the protein PINK1 is constantly degraded. However, when a mitochondrion loses its membrane potential ($\Delta\Psi_m$)—a sign of FQ damage—PINK1 accumulates on the outer membrane. This recruits **Parkin**, an enzyme that "tags" the damaged organelle with ubiquitin chains, flagging it for destruction by the lysosome.
 - **The Role of Autophagy:** Autophagy is the cell's internal recycling system. Stimulating autophagy through controlled physiological states (like intermittent fasting or specific nutrients like spermidine) can help the body "clean house."
 - **Nrf2 Activation:** Upregulating the **Nrf2 pathway**—the master regulator of the antioxidant response—tells the cell to start producing more internal defenses and to begin the cleanup process.
 
 ## 3. Mitochondrial Biogenesis: Building the New
 Once the cellular environment is stabilized, the goal shifts to **Mitochondrial Biogenesis**—the creation of new mitochondria.
-- **PGC-1α:** This is the primary protein responsible for mitochondrial "birth." It is triggered by low-level, controlled stress (hormesis).
-- **The Pacing Paradox:** Exercise is a powerful trigger for biogenesis, but in FQAD, the threshold for "too much" is extremely low. Overexertion causes a "crash" because the damaged mitochondria cannot meet the demand, leading to another burst of oxidative stress. Recovery requires **Pacing**—finding the tiny "Goldilocks zone" of movement that stimulates repair without triggering collapse.
+- **The Energy Sensor (AMPK):** The process usually begins with **AMPK (AMP-activated protein kinase)**. This enzyme acts as the cell's "fuel gauge." When ATP levels drop (raising the AMP:ATP ratio), AMPK is phosphorylated.
+- **PGC-1α Activation:** Activated AMPK turns on **PGC-1α** (Peroxisome proliferator-activated receptor gamma coactivator 1-alpha). This is the "master switch" for mitochondrial birth, coordinating the transcription of nuclear and mitochondrial DNA to build new respiratory complexes.
+- **The Pacing Paradox:** Exercise is a powerful trigger for biogenesis via the AMPK pathway, but in FQAD, the threshold for "too much" is extremely low. Overexertion causes a "crash" because the damaged mitochondria cannot meet the demand, leading to another burst of oxidative stress. Recovery requires **Pacing**—finding the tiny "Goldilocks zone" of movement that stimulates repair without triggering collapse.
 
 ## 4. The Time Scale of Tissue Repair
 One of the most difficult psychological aspects of FQAD is the slow pace of recovery. This is dictated by biological turnover rates:

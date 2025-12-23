@@ -9,12 +9,13 @@ One of the most significant breakthroughs is the discovery that FQs may form **c
 
 ## 2. Mesenchymal Stem Cell (MSC) Exhaustion
 MSCs are the "repair crews" of the body, responsible for fixing tendons and cartilage.
-- **Senescence:** FQs have been shown to induce **premature senescence** (biological aging) in stem cells. The stem cells "stop working" and start secreting inflammatory signals instead of repairing tissue.
-- **The Repair Blockade:** If the body's stem cell pool is damaged, recovery is slowed because the "source" of new tenocytes and nerves is compromised. Research into "rejuvenating" these stem cells is a major focus for future therapies.
+- **Premature Senescence:** FQs have been shown to induce **premature senescence** (biological aging) in stem cells. The stem cells "stop working" but do not die.
+- **The SASP Hazard:** Instead, these "zombie cells" adopt the **Senescence-Associated Secretory Phenotype (SASP)**. They actively secrete pro-inflammatory cytokines (like **IL-6** and **IL-8**), chemokines, and matrix-degrading proteases (MMPs). This means the stem cells are not only failing to repair the tissue but are actively poisoning the local environment and spreading inflammation.
+- **The Repair Blockade:** If the body's stem cell pool is damaged, recovery is slowed because the "source" of new tenocytes and nerves is compromised. Research into "senolytics" (drugs that kill senescent cells) is a major focus for future therapies.
 
 ## 3. Gene Therapy and Mitochondrial Transfer
 Looking toward 2030, researchers are exploring high-tech interventions:
-- **Mitochondrial Transfer:** The idea of "injecting" healthy mitochondria into damaged tissues to restore energy production.
+- **Mitochondrial Transfer:** The idea of "injecting" healthy mitochondria into damaged tissues to restore energy production. Scientists are studying **Tunneling Nanotubes (TNTs)**—microscopic bridges that cells naturally form to transfer organelles to distressed neighbors—to develop biomimetic delivery systems.
 - **CRISPR for Repair:** Using gene-editing tools to help the cell identify and repair the specific FQ-induced DNA breaks or adducts.
 - **Small Molecule Activators:** Development of new drugs that specifically target PGC-1α or Nrf2 more powerfully than natural supplements can.
 

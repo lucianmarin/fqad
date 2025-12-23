@@ -13,8 +13,15 @@ Fluoroquinolones are notorious for causing **dysglycemia** (both extreme highs a
 - **Diabetes Risk:** Conversely, damage to mitochondrial function in metabolic tissues can lead to insulin resistance and hyperglycemia. This risk is so significant that the FDA added a standalone warning for mental health and blood sugar disturbances in 2018.
 
 ## 3. Sensory Organs: Vision and Hearing
-- **Ototoxicity (Tinnitus and Hearing Loss):** The hair cells of the inner ear are among the most metabolically active cells in the body. They are packed with mitochondria to support the constant work of sound transduction. FQ-induced mitochondrial failure can lead to permanent tinnitus (ringing in the ears) and sensorineural hearing loss.
-- **Ocular Toxicity:** Beyond retinal detachment (linked to collagen degradation), FQs can cause **Uveitis** and damage to the corneal stroma. Patients often report "visual snow," floaters, and extreme light sensitivity (photophobia).
+Fluoroquinolones exhibit a high affinity for **melanin**, a pigment found in high concentrations in the inner ear and the eye. This affinity allows the drug to accumulate and persist in these tissues for months after cessation.
+
+- **Ototoxicity (Tinnitus and Hearing Loss):** 
+    *   **The Melanin Trap:** FQs bind to the melanin in the **stria vascularis** of the cochlea. This tissue is responsible for maintaining the ionic composition of the endolymph, which is crucial for hair cell function.
+    *   **Mitochondrial Collapse:** The hair cells of the inner ear are metabolically expensive and packed with mitochondria. FQ-induced oxidative stress leads to the death of these non-regenerative cells, causing permanent high-frequency sensorineural hearing loss and persistent tinnitus.
+- **Ocular Toxicity:** 
+    *   **Retinal Pigment Epithelium (RPE):** Similarly, FQs accumulate in the melanin-rich RPE.
+    *   **Collagen Breakdown:** Beyond the retina, FQs degrade the collagen in the vitreous humor (leading to floaters) and the connective tissue of the eye, increasing the risk of retinal detachment.
+    *   **Uveitis & Optic Neuropathy:** The drug can cause inflammation of the uvea (uveitis) and direct toxicity to the optic nerve, resulting in symptoms like "visual snow," photophobia, and blurred vision.
 
 ## 4. Renal and Hepatic Stress
 - **Acute Kidney Injury (AKI):** FQs are primarily cleared by the kidneys. In patients with even mild renal impairment, the drug can accumulate to toxic levels. FQs can cause crystal-induced nephropathy or interstitial nephritis.

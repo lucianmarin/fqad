@@ -11,10 +11,13 @@ Dr. Stefan Pieper, a leading researcher in FQAD, has proposed diagnostic criteri
 
 ## 2. Investigative Biomarkers
 While standard blood panels (CBC, Metabolic Panel) often come back "normal," specialized testing can reveal the underlying pathology:
-- **Small Fiber Neuropathy (SFN):** A **3mm Skin Punch Biopsy** from the ankle and thigh to measure **Intraepidermal Nerve Fiber Density (IENFD)**. This is the most objective proof of neurological damage in FQAD.
-- **Mitochondrial Markers:** Elevated **Lactate/Pyruvate ratio** or testing for **Organic Acids** (like elevated succinate or fumarate) in urine can indicate a bottleneck in the Krebs cycle.
-- **Oxidative Stress Panels:** Measuring the **GSH/GSSG (Reduced vs. Oxidized Glutathione) ratio** or levels of **8-OHdG** (a marker of oxidative DNA damage).
-- **Imaging:** Ultrasound or MRI of tendons can show "thickening" or "mucoid degeneration" without signs of acute inflammation, which is characteristic of FQ-induced tendinosis.
+- **Small Fiber Neuropathy (SFN):** A **3mm Skin Punch Biopsy** to measure **Intraepidermal Nerve Fiber Density (IENFD)** remains the gold standard for diagnosing small fiber pathology.
+- **Advanced Imaging:** 
+    *   **Ultrasound Tissue Characterization (UTC):** Unlike standard ultrasound, UTC analyzes the 3D stability of the tendon matrix. It can quantify the ratio of organized (Type I) vs. disorganized (Type II/III) collagen fibers, revealing sub-clinical tendinosis before a rupture occurs.
+- **Emerging Molecular Markers:**
+    *   **Circulating microRNAs:** Research (2024-2025) points to specific microRNAs, such as the **miR-29 family**, as potential biomarkers. These molecules regulate collagen expression and are often dysregulated in FQAD patients.
+    *   **Oxidative Stress Panels:** Markers like **8-OHdG** (8-hydroxy-2'-deoxyguanosine) measure oxidative damage to DNA, while the **GSH/GSSG ratio** (Reduced vs. Oxidized Glutathione) provides a snapshot of the body's antioxidant reserve.
+- **Mitochondrial Function:** Organic Acids Tests (OAT) can reveal elevations in Krebs cycle intermediates (like succinate, fumarate, or suberic acid), indicating a functional block in mitochondrial energy production.
 
 ## 3. Differential Diagnosis: Ruling Out the "Mimics"
 Because FQAD symptoms are so broad, clinicians must rule out several conditions that share similar profiles:

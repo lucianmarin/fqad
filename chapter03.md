@@ -3,10 +3,12 @@
 Mitochondrial toxicity is the "ground zero" of FQAD. Because mitochondria produce 90% of the energy (ATP) required for cellular life, their failure triggers a cascading collapse across multiple organ systems.
 
 ## 1. The Electron Transport Chain (ETC) Under Attack
-The ETC consists of five protein complexes (I-V) embedded in the inner mitochondrial membrane. FQs disrupt this delicate assembly in several ways:
-- **Complex I & IV Inhibition:** Research shows that FQs can directly impair Complex I (NADH dehydrogenase) and Complex IV (Cytochrome c oxidase). This slows down the flow of electrons, leading to a "backlog" that causes electrons to leak out and react with oxygen.
-- **Formation of Superoxide ($O_2^{\bullet-}$):** These leaked electrons create superoxide radicals, the primary Reactive Oxygen Species (ROS). While the cell has defenses like Superoxide Dismutase (SOD), the sheer volume of ROS produced during FQ exposure can overwhelm these systems.
-- **The Peroxynitrite Trap:** When superoxide reacts with nitric oxide (NO), it forms **peroxynitrite** ($ONOO^-$). Peroxynitrite is a highly reactive oxidant that can permanently damage proteins, lipids, and DNA. It also inhibits the ETC further, creating a self-sustaining cycle of destruction often called the "vicious cycle of oxidative stress."
+The ETC consists of five protein complexes (I-V) embedded in the inner mitochondrial membrane (IMM). These complexes shuttle electrons to generate a proton gradient—the **mitochondrial membrane potential ($\Delta\Psi_m$)**—which drives ATP synthesis. FQs disrupt this delicate electrochemical machinery:
+
+- **Complex I & IV Inhibition:** FQs act as inhibitors of the respiratory chain. By interfering with electron flow at Complex I (NADH dehydrogenase) and Complex IV (Cytochrome c oxidase), they cause a "backup" of electrons.
+- **Superoxide Generation:** Stalled electrons escape the chain and react prematurely with molecular oxygen ($O_2$) to form the **superoxide radical** ($O_2^{\bullet-}$). This occurs primarily at Complex I and III.
+- **The Fenton Reaction:** The situation is exacerbated by the presence of free iron (released from Fe-S clusters by ROS or FQ chelation). The superoxide radical can be converted to hydrogen peroxide ($H_2O_2$) by SOD. In the presence of ferrous iron ($Fe^{2+}$), $H_2O_2$ undergoes the **Fenton reaction** to produce the **hydroxyl radical** ($\cdot OH$). The hydroxyl radical is the most destructive ROS known to biology; it indiscriminately attacks DNA, lipids, and proteins at diffusion-controlled rates.
+- **Collapse of $\Delta\Psi_m$:** The accumulation of ROS and the inhibition of proton pumping lead to the dissipation of the mitochondrial membrane potential ($\Delta\Psi_m$). Without this gradient, ATP Synthase (Complex V) cannot function, and the cell is starved of energy. This loss of potential also opens the **Mitochondrial Permeability Transition Pore (mPTP)**, a death sentence for the mitochondria that triggers swelling and rupture.
 
 ## 2. mtDNA Depletion and the "Delayed Onset" Mystery
 One of the most perplexing aspects of FQAD is that symptoms can worsen *after* the drug is stopped. This is likely due to **mtDNA depletion**.

@@ -3,7 +3,8 @@
 The journey through FQAD is one of the most challenging experiences a person can face. It is a fundamental disruption of the body's energy and structural systems. However, as we have explored in this book, the science of 2025 provides a roadmap for understanding and, ultimately, for healing.
 
 ## 1. The Biological Journey: A Summary
-Recovery is the process of reversing the toxicological events of "floxing":
+Recovery is the process of reversing the toxicological events of "floxing" and restoring homeostasis:
+- **Reducing Allostatic Load:** The goal is to lower the "allostatic load"—the cumulative biological cost of chronic adaptation to stress. By resolving the mitochondrial energy crisis, the body no longer needs to operate in "emergency mode."
 - **From Inhibition to Expression:** Moving from blocked enzymes and DNA breaks to a state of healthy gene expression.
 - **From Depletion to Abundance:** Replacing the depleted pools of magnesium, glutathione, and healthy mitochondria.
 - **From Fragility to Strength:** Remodeling the collagen matrix through careful loading and nutritional support.
@@ -20,6 +21,7 @@ Because FQAD is still under-recognized in many clinical settings, patients must 
 - **Join Registries:** Participate in university-led FQAD registries to help researchers identify the genetic markers of the condition.
 
 ## 4. Validated Resources (2025)
+- **The Quinolone Vigilance Foundation (QVF):** A leading non-profit dedicated to raising awareness, supporting research, and advocating for regulatory change.
 - **FDA Safety Communications:** Search "FDA Fluoroquinolone" for the latest black box updates.
 - **EMA Healthcare Professional Communications:** Search "EMA Quinolone Restrictions."
 - **Academic Hubs:** Look for the latest publications from the **FQ Research Hub** or the works of **Dr. Stefan Pieper** and **Dr. Beatrice Golomb**.

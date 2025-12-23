@@ -8,10 +8,13 @@ The strength of our connective tissue relies on the cross-linking of collagen an
 - **Copper Chelation:** LOX is a copper-dependent enzyme. By chelating copper ions, FQs may structurally "starve" the enzyme of its essential cofactor, leading to its inactivation.
 
 ## 2. The Rise of the "Collagen Eaters": MMPs
-Matrix Metalloproteinases (MMPs) are enzymes responsible for breaking down old tissue so it can be replaced. In a healthy body, they are strictly controlled. FQs flip this switch to the "on" position permanently.
-- **Upregulation of MMP-1, -2, and -9:** Studies demonstrate a massive increase in the expression of these enzymes in tenocytes (tendon cells) after FQ exposure. 
-- **MMP-1 (Collagenase):** Specifically targets Type I and Type III collagen, the primary components of tendons and the aortic wall.
-- **TIMP Downregulation:** Simultaneously, FQs reduce the levels of **Tissue Inhibitors of Metalloproteinases (TIMPs)**—the "brakes" of the system. The result is an uncontrolled "melting" of the connective tissue matrix.
+Matrix Metalloproteinases (MMPs) are enzymes responsible for physiological tissue remodeling. In FQ toxicity, their regulation is hijacked via inflammatory signaling pathways.
+
+- **The NF-$\kappa$B Pathway:** FQ-induced oxidative stress activates **Nuclear Factor kappa B (NF-$\kappa$B)**, a master regulator of inflammation. Under normal conditions, NF-$\kappa$B is held inactive in the cytoplasm. ROS triggers its release, allowing it to translocate into the nucleus.
+- **Transcriptional Upregulation:** Once in the nucleus, NF-$\kappa$B binds to the promoter regions of MMP genes, driving the massive overexpression of **MMP-1**, **MMP-2**, and **MMP-9**.
+- **MMP-1 (Collagenase):** Specifically cleaves the triple helix of Type I and Type III collagen, the primary load-bearing components of tendons and the aortic wall.
+- **MMP-2 and MMP-9 (Gelatinases):** These enzymes further degrade the collagen fragments and elastin. 
+- **TIMP Downregulation:** Simultaneously, FQs reduce the levels of **Tissue Inhibitors of Metalloproteinases (TIMPs)**. This disruption of the MMP/TIMP ratio results in an unopposed catabolic state—an uncontrolled "melting" of the connective tissue matrix.
 
 ## 3. Tenocyte Apoptosis and Hypocellularity
 Tendon cells, or tenocytes, are responsible for maintaining the tendon. FQs are directly toxic to these cells.

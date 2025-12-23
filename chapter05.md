@@ -3,10 +3,16 @@
 The neurotoxicity of fluoroquinolones is perhaps the most life-altering aspect of FQAD. FQs are known to be highly neurotropic, meaning they have a high affinity for nervous tissue. Their ability to cross the blood-brain barrier (BBB) allows them to disrupt the delicate balance of the central and peripheral nervous systems.
 
 ## 1. The GABA/Glutamate Imbalance
-The brain operates on a balance between inhibition (GABA) and excitation (Glutamate). FQs act as a "double hit" to this system.
-- **GABA-A Antagonism:** FQs bind to the **GABAA receptor** complex, specifically at the picrotoxin-like site. This prevents GABA, the brain's "calming" neurotransmitter, from binding. The brain effectively loses its "brakes."
-- **NMDA Activation:** Simultaneously, FQs (particularly when chelated with magnesium) can interfere with the magnesium block of the **NMDA receptor**. This allows an influx of calcium into the neuron, leading to **excitotoxicity**—a state where the neuron is so overstimulated that it becomes damaged or dies.
-- **The "Floxing" CNS Profile:** This imbalance manifests as severe insomnia, "internal vibrations," extreme anxiety (often described as "terror"), and in rare cases, psychosis or suicidal ideation.
+The brain operates on a delicate equilibrium between inhibition (GABA) and excitation (Glutamate). FQs disrupt this balance through a dual mechanism of action, shifting the CNS into a state of hyper-excitability.
+
+- **GABA-A Receptor Antagonism:** FQs act as non-competitive **GABA-A receptor antagonists**. They bind to a specific site on the receptor complex, possibly overlapping with the channel pore or the GABA binding site itself.
+    *   **Structure-Activity Relationship:** The affinity for the GABA receptor is heavily influenced by the C-7 substituent. FQs with a **piperazine** or **pyrrolidine** ring at this position (like Ciprofloxacin and Moxifloxacin) show higher binding affinity. 
+    *   **The Mechanism:** By physically displacing GABA or preventing its binding, FQs effectively cut the "brake lines" of the nervous system. This results in disinhibition of neuronal firing.
+- **NMDA Receptor Hyperactivation:** Under normal resting conditions, the **N-methyl-D-aspartate (NMDA)** glutamate receptor is blocked by a magnesium ion ($Mg^{2+}$). This prevents ions from flowing through the channel.
+    *   **Removing the Block:** FQs, as potent magnesium chelators, can strip this protective $Mg^{2+}$ ion from the receptor pore.
+    *   **Calcium Influx:** Without the magnesium block, the channel opens, allowing a massive influx of Calcium ($Ca^{2+}$) into the neuron.
+    *   **Excitotoxicity:** High intracellular calcium triggers a cascade of destructive enzymes (proteases, endonucleases) that damage the cytoskeleton and DNA, leading to **excitotoxicity** and neuronal apoptosis (cell death).
+- **The "Floxing" CNS Profile:** This molecular storm manifests as severe insomnia (inability to initiate sleep due to hyper-arousal), "internal vibrations" (tremors at a cellular level), extreme anxiety (chemically induced terror), and in severe cases, seizures and psychosis.
 
 ## 2. Small Fiber Neuropathy (SFN)
 A hallmark of FQAD is the development of peripheral neuropathy, specifically affecting the small, unmyelinated "C-fibers" and thinly myelinated "A-delta" fibers.

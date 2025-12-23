@@ -9,8 +9,10 @@ No two "floxing" experiences are identical, but patterns have emerged from the t
 
 ## 2. The Relapsing-Remitting Pattern
 FQAD is rarely a linear recovery. Many patients experience "flare-ups" after months of feeling well.
-- **The "Second Hit" Hypothesis:** A flare can be triggered by a secondary stressor that taxes the already-vulnerable mitochondria. Common triggers include dental work (local anesthetics), steroid use, severe emotional stress, or even a new viral infection (like the flu or COVID-19).
-- **Hormonal Influence:** Many female patients report a worsening of symptoms (especially joint pain and anxiety) during specific phases of the menstrual cycle, likely due to the interaction between estrogen and the GABAergic/collagen systems.
+- **Mitochondrial Heteroplasmy:** This pattern may be explained by the concept of **heteroplasmy**. Cells contain hundreds of mitochondria, and each mitochondrion contains multiple copies of mtDNA. In FQAD, a cell likely contains a mix of healthy (wild-type) and damaged (mutant) mtDNA.
+    *   **The Threshold Effect:** As long as the ratio of healthy mtDNA is high, the cell functions normally. However, under stress (oxidative, viral, or chemical), the demand for energy increases. If the damaged mitochondria cannot keep up, the cell crosses a bioenergetic threshold, leading to a sudden loss of function (a "flare") until homeostasis is restored.
+- **Hormonal Influence (Neurosteroids):** Many female patients report a worsening of symptoms (especially joint pain and anxiety) during the pre-menstrual phase.
+    *   **Progesterone and GABA:** Progesterone is metabolized into potent **neurosteroids** like **allopregnanolone**. Allopregnanolone is a positive allosteric modulator of the GABA-A receptor (similar to how benzodiazepines work). When progesterone levels drop before menstruation, the brain loses this natural "calming" influence, unmasking the underlying GABAergic dysfunction caused by the FQs.
 
 ## 3. The Medical Invalidation (Gaslighting) Phenomenon
 A unique trauma of FQAD is the frequent dismissal by medical professionals.
