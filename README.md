@@ -1,5 +1,7 @@
 # Recovering from Fluoroquinolone-Associated Disability (FQAD)
 
+![cover](cover.jpg)
+
 This book provides a science-based guide to understanding and recovering from Fluoroquinolone-Associated Disability (FQAD), a multisystem condition triggered by fluoroquinolone antibiotics (e.g., ciprofloxacin, levofloxacin, moxifloxacin). It draws on established mechanisms like mitochondrial dysfunction, oxidative stress, ion chelation, and collagen degradation, while emphasizing evidence-informed recovery strategies. The structure progresses from education and diagnosis to practical recovery protocols, supported by patient experiences and emerging research. The tone is empathetic, hopeful, and cautious—no cures are promised, but gradual improvement is possible through targeted interventions.
 
 ## Chapters
