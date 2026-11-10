@@ -1,6 +1,6 @@
 # Recovering from Fluoroquinolone-Associated Disability (FQAD)
 
-![cover](cover.jpg)
+![cover](images/cover.jpg)
 
 This book provides a rigorous, peer-reviewed scientific and clinical guide to understanding, diagnosing, and recovering from **Fluoroquinolone-Associated Disability (FQAD)** and **Fluoroquinolone-Associated Multisystem Toxicity (FQMT)**—a complex iatrogenic condition triggered by fluoroquinolone antibiotics (such as ciprofloxacin, levofloxacin, moxifloxacin, and ofloxacin). Updated with the latest molecular, proteomic, epidemiological, and clinical studies through **2026**, it synthesizes breakthroughs in mitochondrial Topoisomerase IIβ poisoning, AIFM1/IDH2 chemical proteomics, α-ketoglutarate dioxygenase epigenetic inhibition, the Mitochondrial Vulnerability Threshold (MVT) hypothesis, cGAS–STING and LOX-mediated connective tissue and vascular pathology, the October 2025 ICD-10-CM `T36.AX` diagnostic codes, and evidence-informed cellular rehabilitation.
 
